@@ -4,7 +4,7 @@ UE 5.8 单人探索解谜原型，当前版本 v0.2。
 
 打开 `解密地图：山谷关卡白模.uproject`，在编辑器中点击 Play 试玩。机关通过 PythonScriptPlugin 在编辑器单人 PIE 中运行。
 
-[关卡设计与测试记录](ValleyHydro_README.md) · [路线与剖面图](ValleyHydro_Diagrams.svg) · [迭代提示词](迭代提示词.md)
+[关卡设计与测试记录](ValleyHydro_README.md) · [路线与剖面图](ValleyHydro_Diagrams.svg)
 
 ![路线与剖面图](ValleyHydro_Diagrams.svg)
 
